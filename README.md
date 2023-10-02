@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmytro Bezborodko
+Hi 👋 My name is Dmytro Bezborodko
 =========================================================================================================================================
 
 I actively practice and use React, JavaScript, HTML and CSS. I enjoy developing functional applications and sharing my work with others. I am passionate about technology and constantly strive to improve my skills.
