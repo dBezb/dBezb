@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmytro Bezborodko
+👋 Hi, my name is Dmytro Bezborodko
 =========================================================================================================================================
 
 I actively practice and use React, JavaScript, HTML and CSS. I enjoy developing functional applications and sharing my work with others. I am passionate about technology and constantly strive to improve my skills.
